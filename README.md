@@ -7,15 +7,17 @@ Each project page contains detailed overviews, visualisations, experiments, and 
 
 ## 👤 About Me
 
-I am **Md Jahid Hasan**, a **PhD Candidate in Business Information Systems at RMIT University, Australia**, working in close collaboration with **Carsales.com.au**.  
-My doctoral thesis focuses on **AI-driven automotive damage detection and assessment**, integrating **object detection** and **vision–language models** to deliver interpretable and scalable inspection frameworks.  
+I am **Md Jahid Hasan**, a **PhD Candidate in Business Information Systems at RMIT University, Australia**, working in close collaboration with **Carsales.com.au**. My doctoral thesis focuses on **AI-driven automotive damage detection and assessment**, integrating **object detection** and **vision–language models** to deliver interpretable and scalable inspection frameworks.  
 
 - **Thesis defended**; final submission in progress.  
 - **Expected completion: Feb 2026**.  
 - Strong research background in **computer vision, natural language processing, and explainable AI**.  
 - Passionate about bridging **academic innovation** with **industry applications** in eCommerce, insurance, and healthcare.  
 
-📧 md.jahid.hasan@rmit.edu.au | 🌐 [Portfolio](https://hellojahid.github.io) | [Google Scholar](https://scholar.google.com/citations?user=7gQWnDMAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/hellojahid/)
+📧 **RMIT Email:** md.jahid.hasan@rmit.edu.au  
+📧 **Personal Email:** jahidnoyon36@gmail.com  
+🌐 [Portfolio](https://hellojahid.github.io) | [Google Scholar](https://scholar.google.com/citations?user=7gQWnDMAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/hellojahid/)
+
 
 ---
 
