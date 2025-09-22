@@ -29,7 +29,7 @@ Here are the main projects from my PhD and related research:
   The paper introduces CarDamageEval, a benchmark framework for evaluating car damage assessment with vision-language models through a dual-layer approach that measures both structured accuracy and semantic quality. It further proposes a hybrid CarDD_Score metric and validates the framework with a curated annotated dataset and baseline experiments.  
   🔗 [Project Page](https://hellojahid.github.io/paper/cardamageeval/cardamageeval.html)
 
-  - **CarDVLM** – *Vision–Language Model for Structured Car Damage Assessment*  
+- **CarDVLM** – *Vision–Language Model for Structured Car Damage Assessment*  
   Combines object detection with fine-tuned VLMs to generate structured outputs (type, location, severity). Evaluated with structured and semantic metrics, achieving state-of-the-art performance.  
   🔗 [Project Page](https://hellojahid.github.io/paper/cardvlm/cardvlm.html)
 
@@ -38,7 +38,7 @@ Here are the main projects from my PhD and related research:
   🔗 [Project Page](https://hellojahid.github.io/paper/groundingcardd/groundingcardd.html)
 
 
-  - **CarDNet** – *Enhancing Car Damage Classification with Attention*  
+- **CarDNet** – *Enhancing Car Damage Classification with Attention*  
   Integrates a Convolutional Attention Module (CAM) into ResNet50 to refine spatial and channel features for car damage classification. Improves accuracy across multiple damage types.  
   🔗 [Project Page](https://hellojahid.github.io/paper/cardnet/cardnet.html)
 
