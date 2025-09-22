@@ -50,10 +50,12 @@ Here are the main projects from my PhD and related research:
 
 ## 📚 Selected Publications
 
-- Hasan, M.J. et al. **GroundingCarDD: Text-Guided Multimodal Phrase Grounding for Car Damage Detection**. *IEEE Access*, 2024.  
+- Hasan, M.J. et al. **CarDamageEval: Benchmark Evaluation of Car Damage Assessment Using Vision Language Models**. *The 23rd Australasian Data Science and Machine Learning Conference*, 2025. 
+- Hasan, M.J. et al. **Enhancing Brain Tumor Classification with SSPANet**. *Biomedical Signal Processing and Control*, 2025. 
 - Hasan, M.J. et al. **Vehicle Damage Detection Using Artificial Intelligence: A Systematic Literature Review**. *WIREs DMKD*, 2025.  
-- Hasan, M.J. et al. **Enhancing Brain Tumor Classification with SSPANet**. *Biomedical Signal Processing and Control*, 2025.  
+- Hasan, M.J. et al. **GroundingCarDD: Text-Guided Multimodal Phrase Grounding for Car Damage Detection**. *IEEE Access*, 2024. 
 - Earlier works on biomedical imaging, Bangla OCR, and NLP (2018–2021).  
+
 
 ---
 
