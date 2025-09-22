@@ -25,17 +25,22 @@ I am **Md Jahid Hasan**, a **PhD Candidate in Business Information Systems at RM
 
 Here are the main projects from my PhD and related research:
 
-- **CarDNet** – *Enhancing Car Damage Classification with Attention*  
-  Integrates a Convolutional Attention Module (CAM) into ResNet50 to refine spatial and channel features for car damage classification. Improves accuracy across multiple damage types.  
-  🔗 [Project Page](https://hellojahid.github.io/paper/cardnet/cardnet.html)
+- **CarDamageEval** – *: Benchmark Evaluation of Car Damage Assessment Using Vision Language Models*  
+  The paper introduces CarDamageEval, a benchmark framework for evaluating car damage assessment with vision-language models through a dual-layer approach that measures both structured accuracy and semantic quality. It further proposes a hybrid CarDD_Score metric and validates the framework with a curated annotated dataset and baseline experiments.  
+  🔗 [Project Page](https://hellojahid.github.io/paper/cardamageeval/cardamageeval.html)
+
+  - **CarDVLM** – *Vision–Language Model for Structured Car Damage Assessment*  
+  Combines object detection with fine-tuned VLMs to generate structured outputs (type, location, severity). Evaluated with structured and semantic metrics, achieving state-of-the-art performance.  
+  🔗 [Project Page](https://hellojahid.github.io/paper/cardvlm/cardvlm.html)
 
 - **GroundingCarDD** – *Text-Guided Multimodal Phrase Grounding for Car Damage Detection*  
   Fuses visual and textual signals for precise damage localisation, outperforming baselines in mAP and recall. Addresses challenges with small damages and reflection artefacts.  
   🔗 [Project Page](https://hellojahid.github.io/paper/groundingcardd/groundingcardd.html)
 
-- **CarDVLM** – *Vision–Language Model for Structured Car Damage Assessment*  
-  Combines object detection with fine-tuned VLMs to generate structured outputs (type, location, severity). Evaluated with structured and semantic metrics, achieving state-of-the-art performance.  
-  🔗 [Project Page](https://hellojahid.github.io/paper/cardvlm/cardvlm.html)
+
+  - **CarDNet** – *Enhancing Car Damage Classification with Attention*  
+  Integrates a Convolutional Attention Module (CAM) into ResNet50 to refine spatial and channel features for car damage classification. Improves accuracy across multiple damage types.  
+  🔗 [Project Page](https://hellojahid.github.io/paper/cardnet/cardnet.html)
 
 - **SSPANet** – *Strip-Style Pooling Attention Network for Brain Tumour Classification*  
   A hybrid attention mechanism combining channel (Z-pool), spatial (strip pooling), and style pooling. Achieves ~97% accuracy with ResNet50 while producing interpretable heatmaps via GradCAM++.  
